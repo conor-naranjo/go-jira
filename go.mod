@@ -1,4 +1,4 @@
-module github.com/andygrunwald/go-jira
+module github.com/conor-naranjo/go-jira
 
 go 1.15
 
